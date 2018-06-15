@@ -19,11 +19,6 @@ export default class Home extends Component {
 		console.log('componentDidUpdate  ')
 	}
 
-	shouldComponentUpdate() {
-
-		return false;
-	}
-
 	handleClick() {
 
 		alert('click!')
