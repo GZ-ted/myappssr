@@ -25,3 +25,7 @@ react16 node ssr小demo，直接使用了express生产的脚手架，对于这�
 - renderToStaticMarkup：渲染的结果是不带有data-reactid属性的，此时不管服务端有没有渲染，在客户端中都会重新渲染该组件。
 
 ### react16 支持 Streaming，使用renderToNodeStream和renderToStaticNodeStream
+
+### 参考
+
+http://imweb.io/topic/59dc46db856028aa249e2a57
