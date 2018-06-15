@@ -1,5 +1,5 @@
-# react16 SSR小demo
-demo直接使用了express生成脚手架，部分文件是没用的
+# react16 node SSR
+该小demo直接使用了express生成脚手架，部分文件是没用的
 
 ## 客户端和服务器端渲染区别
 
