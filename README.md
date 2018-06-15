@@ -5,7 +5,8 @@ react16 node ssr小demo，直接使用了express生产的脚手架，对于这�
 
 ### 客户端
 1. npm run build 正常打包 
-2. main.js是正常页面入口，直接配置一个服务器（node，nginx）映射到dist目录访问index.html就可以了，像一般的SPA  
+2. main.js是正常页面入口，直接配置一个服务器（node，nginx）映射到dist目录访问index.html就可以了，像一般的SPA。
+这里使用github服务器看看效果 https://gz-ted.github.io/myappssr/dist/index.html ，可以顺便看看页面源码。
 
 **如果不需要ssr，到这里就可以完成了**
 
