@@ -1,5 +1,5 @@
 # myappssr
-react16 node ssr小demo
+react16 node ssr小demo，直接使用了express生产的脚手架，对于这个demo部分文件是没用的
 
 ## 客户端和服务器端渲染区别
 
